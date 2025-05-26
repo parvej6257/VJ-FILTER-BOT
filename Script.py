@@ -745,6 +745,10 @@ Example:- /set_caption 📕 File Name: {filename}
 
 /stream - ɢᴇᴛ sᴛʀᴇᴀᴍᴀʙʟᴇ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀɴʏ ғɪʟᴇ</b>"""
 
+    SOURCE_TXT = """<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
+
+ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Parvej_117>Parvez_Botz</a>\n"""
+
 
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
