@@ -2230,7 +2230,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "tele":
         btn = [[
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="https://t.me/Parvej_117")
+            InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url=OWNER_LNK)
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
