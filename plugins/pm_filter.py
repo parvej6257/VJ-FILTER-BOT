@@ -23,6 +23,11 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 lock = asyncio.Lock()
 
+import tracemalloc
+
+tracemalloc.start()
+
+
 TIMEZONE = "Asia/Kolkata"
 BUTTON = {}
 BUTTONS = {}
